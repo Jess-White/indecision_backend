@@ -1,0 +1,5 @@
+{
+    id: vote.id,
+    email: vote.email,
+    framework: vote.framework
+  }

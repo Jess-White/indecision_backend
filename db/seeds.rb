@@ -1,0 +1,6 @@
+Vote.create(email:"dan_hey@gmail.com", framework:"vue")
+Vote.create(email:"katherine_evans@gmail.com", framework:"react")
+Vote.create(email:"lisa_carter@gmail.com", framework:"ember.js")
+Vote.create(email:"josh_nixon@gmail.com", framework:"angular.js")
+Vote.create(email:"mike_evans@gmail.com", framework:"vue")
+Vote.create(email:"sara@gmail.com", framework:"react")
